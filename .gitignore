@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Local Data and Results
+results.csv
+dashboard.html
+.env
+
+# Virtual Environment
+venv/
+env/
