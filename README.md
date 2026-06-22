@@ -71,5 +71,41 @@ THROTTLE_DELAY = 1.5
 ```
 Increase it to `2.0` or `3.0` for a slower, more reliable scrape.
 
+## Responsible Use, Fair Use & Commercialization Disclaimer
+
+This project is intended for educational, research, and personal academic analysis purposes only.
+
+By using this software, you agree to comply with all applicable laws, regulations, and the terms of service of any website or platform accessed through the tool. Users are solely responsible for ensuring that their use of this project is lawful and authorized.
+
+### Fair Use Guidelines
+
+* Only collect data that you are permitted to access.
+* Respect website rate limits and avoid excessive automated requests.
+* Do not use this tool to disrupt, degrade, or interfere with the operation of university systems or other online services.
+* Do not attempt to bypass security controls, authentication mechanisms, or access restrictions.
+
+### Data Privacy
+
+* Academic results and related information may constitute personal or sensitive data.
+* Users should obtain appropriate consent before collecting, sharing, publishing, or processing information relating to other individuals.
+* Any dashboards, reports, rankings, or analyses generated using this tool should be handled responsibly and in accordance with applicable privacy laws and institutional policies.
+
+### Commercial Use Restrictions
+
+Unless expressly permitted by the data owner and the applicable terms governing the source website, the data collected through this tool must not be:
+
+* Sold, licensed, sublicensed, or redistributed for profit;
+* Incorporated into commercial products or paid services;
+* Used for advertising, marketing, lead generation, or profiling activities;
+* Republished at scale for commercial advantage.
+
+### No Affiliation
+
+This project is an independent tool and is not affiliated with, endorsed by, sponsored by, or officially associated with Biju Patnaik University of Technology (BPUT) or any related institution.
+
+### Disclaimer of Liability
+
+The authors and contributors of this project provide it "as is" without warranties of any kind. They assume no responsibility for misuse of the software, violations of website terms, privacy breaches, inaccurate data, or any legal consequences arising from its use. Users assume all risks and responsibilities associated with operating this tool.
+
 ## Safety & Rate Limiting
 Please be responsible. Do not set `MAX_STUDENTS` to massive numbers like 10,000 to scrape the entire university, as this may result in your IP address being temporarily blocked by the university's firewall.
